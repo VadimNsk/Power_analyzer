@@ -1,0 +1,5 @@
+syntax: glob
+Mother_module/arch/*
+Power_analyzer/arch/*
+Power_analyzer/*.sch-bak
+Power_analyzer/*.kicad_pcb-bak
